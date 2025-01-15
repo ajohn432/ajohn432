@@ -4,7 +4,7 @@ Hi 👋 My name is Alexander Johnston
 Software Developer and Cybersecurity student
 --------------------------------------------
 
-I am currently attending UNC Charlotte where I previously achieved my B.S. in Computer Science, and I am now studying for my M.S. in Computer Science. I love learning about network security, low level programming, and creating projects revolving around these fields along with many others!
+I am currently attending UNC Charlotte where I previously achieved my B.S. in Computer Science, and I am now studying for my M.S. in Computer Science with a concentration in Information Security and Privacy. I love learning about network security, low level programming, machine learning, and creating projects revolving around these fields with my peers!
 
 *   🌍  I'm based in United States
 *   ✉️  You can contact me at [alex.johnston22222@gmail.com](mailto:alex.johnston22222@gmail.com) 
